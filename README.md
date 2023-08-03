@@ -159,10 +159,14 @@ require("LspUI").setup({
 
 ![peek_definition](https://github.com/jinzhongjia/LspUI.nvim/blob/main/.img/peek_definition.png)
 
-## 📔Todo
+## 📔Recent Goals
 
-- Define(`Defination` and `Type Definitions`)
-- Finder(`References` and `implementations`)
+- [ ] declaration
+- [ ] definition
+- [ ] type definiton
+- [ ] implemention
+- [ ] reference
+- [ ] hover highlight
 
 ## 🔮Thanks
 
