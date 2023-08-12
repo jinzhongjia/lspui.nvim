@@ -3,6 +3,7 @@ local version = "0.0.1"
 local M = {}
 
 M.option = {
+	prompt = true,
 	lightbulb = {
 		enable = false,
 		command_enable = false,

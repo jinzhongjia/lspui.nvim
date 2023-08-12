@@ -4,6 +4,11 @@ A modern and useful UI plugin that wraps lsp operations.
 
 > As neovim is the host system, its plugins should be kept as minimally intrusive as possible
 
+**!!! Now LspUI has refactored, recommend migrating to new version, the old has some issues, but no longer maintained!**
+
+**!!! If you don't want to see this message, add "prompt = false" to config**
+
+**!!! new version is branch `v2`**
 ## FAQ
 
 **Why I make this plugin?**
