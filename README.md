@@ -8,7 +8,7 @@ A modern and useful UI plugin that wraps lsp operations.
 
 **!!! If you don't want to see this message, add "prompt = false" to config**
 
-**!!! new version is branch `v2`**
+**!!! new version is branch `main`**
 ## FAQ
 
 **Why I make this plugin?**
